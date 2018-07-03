@@ -8,7 +8,7 @@ freeze==1.0.10
 idna==2.7
 multidict==4.3.1
 numpy==1.14.5
-opencv-python==3.4.1
+opencv-python==3.4.1.15
 pipreqs==0.4.9
 requests==2.19.1
 six==1.11.0
