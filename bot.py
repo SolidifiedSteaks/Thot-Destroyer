@@ -1,8 +1,11 @@
 # https://github.com/Rapptz/discord.py/blob/async/examples/reply.py
 import discord
+from discord.ext import commands
+from discord.ext.commands import Bot
 import numpy as np
 import cv2
 import requests
+import os
 
 # multiple cascades: https://github.com/Itseez/opencv/tree/master/data/haarcascades
 
