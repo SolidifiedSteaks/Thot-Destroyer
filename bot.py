@@ -133,4 +133,4 @@ async def on_ready():
     print('------')
     await client.change_presence(game=discord.Game(name='Use >help'))
 
-client.run(TOKEN)
+client.run(str(os.environ.get('BOT_TOKEN')))
