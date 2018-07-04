@@ -13,7 +13,7 @@ eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
 
 
 
-TOKEN = 'NDYzNDYwMDA3MzcyMTI4MjY2.Dhwuhg.cnJJIiORZqd8ykFDwmqeCkoc86w'
+TOKEN = 'NDYzNDYwMDA3MzcyMTI4MjY2.Dh2iAw.n9AZB_qIcrQzslG3myRLdQNKkNE'
 
 client = discord.Client()
 
